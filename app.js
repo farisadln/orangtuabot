@@ -5,7 +5,7 @@ const {prefix,token} = require ('./config.json');
 client.login(token)
 
 client.on('ready',() => {
-    let sayPagi = client.channels.cache.find(channel => channel.id === '700722339091841137');
+    let sayPagi = client.channels.cache.find(channel => channel.id === '');
     let dayMillseconds = 1000 * 60 * 60 * 24;
     console.log("bot running")
 
