@@ -1,0 +1,11 @@
+{
+  "name": "BOT SELAMAT PAGI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "eris": "^0.13.3",
+    "moment": "^2.29.1"
+  }
+}
