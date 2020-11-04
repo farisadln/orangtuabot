@@ -1,6 +1,7 @@
 {
     "prefix" : ">",
     "token" : "",
+    "channel_id" : "",
     "bot_age" : 1,
     "word_array" : ["Hi","Bye" , ":)"],
     "bot_info" : "kepo bangsat  ","version" : 1.0
